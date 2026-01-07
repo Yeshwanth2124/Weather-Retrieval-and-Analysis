@@ -48,6 +48,13 @@ This is the **experimental backend**. It demonstrates the underlying mechanics o
 *   Using a locally downloaded LLM (`flan-t5-base`) for retrieval-augmented generation without external API calls.
 
 
+---
+ 
+**Architecture Diagram**  
+![Building LLM application using RAG - by Sagar Gandhi](https://github.com/user-attachments/assets/ed66e623-e3d4-4d7f-8d90-971f29771dfe)
+
+---
+
 ## Setup & Installation
 
 1.  **Clone the repository**:
